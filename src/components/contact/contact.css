@@ -84,6 +84,7 @@ button {
   .c-wrapper {
     flex-direction: column;
     padding: 0px 50px;
+    margin-top: 2rem;
   }
 
   .c-title {
