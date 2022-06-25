@@ -1,5 +1,4 @@
 import "./about.css";
-import Award from "../../img/award.png";
 import Praj from "../../img/praj.jpeg";
 
 const About = () => {
